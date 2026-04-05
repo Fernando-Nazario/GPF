@@ -1,2 +1,2 @@
-# GPF
-O GPF é um app em Flutter focado em "Teto de Gastos". Automatiza o cálculo do saldo real (Meta - Fatura), eliminando contas manuais. Oferece registro de despesas em tempo real, suporte offline e histórico mensal automático, simplificando a gestão financeira pessoal.
+# GPF - Gerenciador Pessoal Financeiro
+O GPF (Gerenciador Pessoal Financeiro) é um aplicativo mobile desenvolvido em Flutter focado na metodologia de "Teto de Gastos". Ele automatiza o cálculo de disponibilidade financeira real ao subtrair faturas e despesas adicionais de uma meta estipulada, eliminando a necessidade de cálculos manuais ou planilhas externas. Com funcionamento offline e interface intuitiva, o sistema oferece acompanhamento de gastos em tempo real e arquivamento automático de histórico mensal para controle de longo prazo.
